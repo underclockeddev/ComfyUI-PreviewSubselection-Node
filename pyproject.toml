@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-previewsubselection-node"
+description = "A node which takes in x, y, width, height, total width, and total height, in order to accurately represent the area of an image which is covered by area-based conditioning."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/underclockeddev/ComfyUI-PreviewSubselection-Node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PreviewSubselection-Node"
+Icon = ""
